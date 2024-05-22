@@ -5,4 +5,4 @@
     <h1 align="center">&laquo; Letters don't always have to be filled<br>with lots of flowery language. &raquo;<br><b>- Claudia Hodgins</b></h1>
 </div>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D7Y9G4Q)
+[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_white.png)](https://ko-fi.com/D1D7Y9G4Q)
