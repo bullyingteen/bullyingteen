@@ -1,4 +1,4 @@
-# ::Get_Random_Quote()
+#
 
 <div align="center">
     <img style="width: 100%;" alt="GIF" align="center" src="./assets/violett_evergarden.gif"/>
